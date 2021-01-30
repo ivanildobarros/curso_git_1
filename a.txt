@@ -1,3 +1,3 @@
 Testando
 uma Atualização 
-de arquivo
+de arquivo v1.2
